@@ -1,6 +1,13 @@
 # ATTiny85 interfacing with OLED 128x32
 This repository can be used to interface the tiny 128x32 OLED with the ATTiny85 microcontroller using the Tiny4kLED library
 
+## Library Credits
+
+Tiny4kLED is a brilliant library to use for this setup. It worked flawlessly.  
+https://github.com/datacute/Tiny4kOLED
+
+
+
 ## OLED 128x32 Buying links
 
 You may source the OLED from your local stores. I bought it from Aliexpress. Was cheaper and delivered without any issues.  
