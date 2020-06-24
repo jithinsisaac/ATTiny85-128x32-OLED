@@ -14,7 +14,7 @@ https://www.aliexpress.com/item/32672229793.html?spm=a2g0s.9042311.0.0.6a484c4dS
 
 <img src="images/OLED128x32_White.png" alt="drawing" width="180"/>
 
-The module has four pins: VCC, SDA, SCK & GND
+The module has four pins: GND, VCC, SCK & SDA
 
 ## Application
 
