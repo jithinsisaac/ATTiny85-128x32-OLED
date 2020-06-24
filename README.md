@@ -6,7 +6,7 @@ This repository can be used to interface the tiny 128x32 OLED with the ATTiny85 
 You may source the OLED from your local stores. I bought it from Aliexpress. Was cheaper and delivered without any issues.  
 https://www.aliexpress.com/item/32672229793.html?spm=a2g0s.9042311.0.0.6a484c4dSF0KXa
 
-<img src="OLED128x32_White.png" alt="drawing" width="200"/>
+<img src="images/OLED128x32_White.png" alt="drawing" width="200"/>
 
 ## Application
 
